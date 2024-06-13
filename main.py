@@ -183,5 +183,5 @@ else:
 # Créditos del creador
 st.sidebar.markdown("---")
 st.sidebar.text("Creado por:")
-st.sidebar.markdown("<span style='color: white;'>Javier Horacio Pérez Ricárdez</span>", unsafe_allow_html=True)    
+st.sidebar.markdown("<span style='color: yellow;'>Javier Horacio Pérez Ricárdez</span>", unsafe_allow_html=True)    
     
