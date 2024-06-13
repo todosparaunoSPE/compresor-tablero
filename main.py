@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # Documentación y ayuda contextual
 st.sidebar.markdown("### Descripción")
 st.sidebar.markdown("""
-    Para adaptar el código a sensores reales que miden presión, temperatura y vibración en un compresor, se necesitarían algunos pasos adicionales dependiendo de cómo esté estructurado el código actualmente. Aquí una guía general sobre puede hacerse:
+    Para adaptar el código a sensores reales que miden presión, temperatura y vibración en un compresor, se necesitarían algunos pasos adicionales dependiendo de cómo esté estructurado el código actualmente. Aquí una guía general sobre como puede hacerse:
     
    
     
@@ -183,5 +183,5 @@ else:
 # Créditos del creador
 st.sidebar.markdown("---")
 st.sidebar.text("Creado por:")
-st.sidebar.markdown("<span style='color: orange;'>Javier Horacio Pérez Ricárdez</span>", unsafe_allow_html=True)    
+st.sidebar.markdown("<span style='color: black;'>Javier Horacio Pérez Ricárdez</span>", unsafe_allow_html=True)    
     
